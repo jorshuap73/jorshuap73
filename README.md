@@ -1,4 +1,4 @@
-## hey, i'm Jorshua :)
+# hey, i'm Jorshua :)
 
 i'm a begginer in the world of computers. we've got so used to having them,
 to have millions of little circuits in our hands that somehow give us a world
@@ -11,7 +11,7 @@ doing great things with computers, i've really enjoyed going into this world.
 
 i study computer science at the National Autonomus Univertity of Mexico, UNAM.
 
-# currently
+## currently
 
 i'm learning haskell, rust and c. haskell is somthing i'm very excited about.
 <!--
