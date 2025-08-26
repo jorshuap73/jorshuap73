@@ -28,8 +28,8 @@ i'm learning haskell, rust and c. haskell is something i'm very excited about.
 - [email](jorshua@ciencias.unam.mx)
 
 as i create new projects, if anyone finds things to improve in them, i'd love to
-know how i could do it better or if you'd like to collaborate :]
-contact me anytime.
+know how i could do it better or if you'd like to collaborate.
+contact me anytime :]
 
 <!--
 **jorshuap73/jorshuap73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
