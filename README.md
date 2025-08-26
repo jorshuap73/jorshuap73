@@ -1,5 +1,10 @@
-## Hi there 👋
+## hey, i'm Jorshua :)
 
+i'm a begginer in the world of computers. we've got so used to having them, to have millions of little circuits in our hands that somehow give us a world to see through a screen, it is a pity the bad we can make from something so wonderful. i just discovered some charm in the way a computer works. there's a lot of complexity behind what we've made of our own and yet we've been so little curious about, i don't talk about the amazing people in here. the mathematics, the bright minds behind them, overall the enthusiasm of people doing great things with computers, i've really enjoyed going into this world.
+
+i study computer science at the National Autonomus Univertity of Mexico, UNAM.
+
+currently, i'm learning haskell, rust and c. haskell is somthing i'm very excited about.
 <!--
 **jorshuap73/jorshuap73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
