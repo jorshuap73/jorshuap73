@@ -8,10 +8,12 @@ mathematics, the bright minds behind them, overall the enthusiasm of people
 doing great things with computers, i've really enjoyed going into this world.
 
 i study computer science at the National Autonomus Univertity of Mexico, UNAM.
+i enjoy challenging myself to try new things, i'd like to absorb as much as i
+can and build great projcts.
 
 ## currently
 
-i'm learning haskell, rust and c. haskell is somthing i'm very excited about.
+i'm learning haskell, rust and c. haskell is something i'm very excited about.
 <!--
 **jorshuap73/jorshuap73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
